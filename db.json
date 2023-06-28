@@ -1,0 +1,21 @@
+{
+    "todos":[
+        
+  {
+    "id": 1,
+    "userId": 15,
+    "title": "PT WEB 13",
+    "completed": true,
+    "createdAt": 1678975910353,
+    "category": "Work"
+  },
+  {
+    "id": 2,
+    "userId": 20,
+    "title": "Full Stack ",
+    "completed": true,
+    "createdAt": 1678975910353,
+    "category": "Chores"
+  }
+    ]
+}
