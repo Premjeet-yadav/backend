@@ -6,9 +6,7 @@
   "description": "deployment of json server",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {
-    "json-server": "^0.17.3"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start":"node server.js"
